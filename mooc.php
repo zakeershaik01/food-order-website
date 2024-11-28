@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Shaik Zakeer Pasha 5bad57bf </title>
+<title>5bad57bf</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
