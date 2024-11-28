@@ -1,10 +1,10 @@
 <html>
 <body>
-<title>5bad57bf</title>
+<title> Shaik Zakeer Pasha 5bad57bf</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
-$correctnumber=26; //change this number //
+$correctnumber=59; //change this number //
 if(isset($_GET['guess']))
 {
   if (is_numeric($_GET['guess'])===FALSE)
